@@ -1,4 +1,4 @@
-# git push
+# git Push
 
 When you have a [remote](./REMOTE.md) set up you'll need to begin to move [commits](./COMMIT.md) to the remote.
 This can be done with the command `git push`.
